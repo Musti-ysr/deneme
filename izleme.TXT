@@ -1,0 +1,26 @@
+Türkçe Kaynaklar: https://github.com/fatihacet/turkceka...​
+
+Ücretsiz Programlama Kitapları:
+https://github.com/EbookFoundation/fr...​
+
+Awesome Algorithms : https://github.com/tayllan/awesome-al...​
+Awesome Android : https://github.com/JStumpp/awesome-an...​
+Awesome C : https://notabug.org/koz.ross/awesome-c​
+Awesome C++ : https://github.com/fffaraz/awesome-cpp​
+Awesome Deep Learning : https://github.com/ChristosChristofid...​
+Awesome Django (Python Web Framework) : https://github.com/rosarior/awesome-d...​
+Awesome  iOS : https://github.com/vsouza/awesome-ios​
+Awesome Java : https://github.com/akullpp/awesome-java​
+Awesome JavaScript : https://github.com/sorrycc/awesome-ja...​
+Awesome Linux Software : https://github.com/VoLuong/Awesome-Li...​
+Awesome Machine Learning : https://github.com/josephmisiti/aweso...​
+Awesome PHP : https://github.com/ziadoz/awesome-php​
+Awesome Python : https://github.com/vinta/awesome-python​
+Awesome Raspberry Pi : https://github.com/thibmaek/awesome-r...​
+Awesome Swift : https://github.com/matteocrippa/aweso...​
+Awesome .Net : https://github.com/quozd/awesome-dotnet​
+
+Dünyanın en iyi üniversitelerinin Computer Science (Türkiye'de Bilgisayar Mühendisliği) programının kursları 
+Awesome Courses : https://github.com/prakhar1989/awesom...​
+
+Not: Bu yararlı linklerin bir kısmı proje olabileceği gibi bir kısmıda görsel eğitim videolarından oluşmaktadır.Aralarında kitap tavsiyeleride vardır. Kişisel tavsiyem acele edip hepsinİ öğrenmeye çalışmayın.Vakti geldikçe işinize yarayacak olanları seçip inceleyin.
